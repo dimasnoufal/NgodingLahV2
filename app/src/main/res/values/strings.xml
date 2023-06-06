@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NgodingLahV2</string>
+    <string name="no_data">No result found</string>
+    <string name="no_internet">Ups… Something went wrong</string>
+    <string name="searchbar_placeholder">Where are you going?</string>
+    <string name="bahasa_pemrograman">Bahasa Pemrograman</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detail">Detail</string>
+    <string name="bahasa_pemrograman_detail">Bahasa Pemrograman :</string>
+    <string name="deskripsi_detail">Deskripsi :</string>
+    <string name="tahun_rilis">Tahun Rilis</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="menu_home">Menu Home</string>
+    <string name="content_description_menu_home">menu_home</string>
+    <string name="profile">Profile</string>
+    <string name="content_description_profile">about_page</string>
+    <string name="nama">Mohammad Dimas Noufal</string>
+    <string name="email">dimasnoufal26@gmail.com</string>
+</resources>
